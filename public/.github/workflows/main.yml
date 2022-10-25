@@ -17,4 +17,4 @@ jobs:
         server: ${{ secrets.ftp_host }}
         username: ${{ secrets.ftp_user }}
         password: ${{ secrets.ftp_password }}
-        server-dir: home2/rander99/imc.rander.com.br
+        server-dir: public_html/imc.rander.com.br
