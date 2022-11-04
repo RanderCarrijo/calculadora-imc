@@ -1,6 +1,6 @@
 {
   "homepage":"calculadora-imc/",
-  "name": "calculadora-imc",
+  "name": "react_calc_imc",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
